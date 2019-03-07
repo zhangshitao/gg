@@ -3,4 +3,5 @@
  */
 public class g {
     private String a;
+    private String b;
 }
